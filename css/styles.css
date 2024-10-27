@@ -741,11 +741,8 @@ button {
 
 }
 
-.modal-check-text span {
-  display: inline-flex;
-}
-
 .modal-policy-icon {
+  display: inline-flex;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   width: 16px;
