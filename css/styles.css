@@ -737,8 +737,12 @@ button {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
-  display: inline-flex; 
+  margin-left: 4px;
 
+}
+
+.modal-check-text span {
+  display: inline-flex;
 }
 
 .modal-policy-icon {
@@ -747,7 +751,6 @@ button {
   width: 16px;
   height: 16px;
   margin-right: 8px;
-  display: inline-flex; 
   align-items: center;
   justify-content: center;
   fill: transparent;
